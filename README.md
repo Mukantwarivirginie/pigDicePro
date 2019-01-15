@@ -5,7 +5,7 @@ pig dice
 Virginie Mukantwari
 
 # description of project
-
+to use constructors in Javascript 
 
 ### project setup instructions
 
