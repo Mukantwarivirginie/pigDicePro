@@ -1,1 +1,2 @@
-# pigDicePro
+# project name
+pig dice
