@@ -5,3 +5,6 @@ pig dice
 Virginie Mukantwari
 
 # description of project
+
+
+### project setup instructions
