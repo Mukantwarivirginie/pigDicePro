@@ -7,8 +7,6 @@ Virginie Mukantwari
 # description of project
 to use constructors in Javascript 
 
-### project setup instructions
-
 ### contact information
 0786679517 
 Email :virgm2020gmail.com
