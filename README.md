@@ -14,3 +14,6 @@ Virginie Mukantwari
 
 
 ### link to live site on GitHub Pages
+
+
+### copyright and license information
