@@ -15,7 +15,7 @@ Email :virgm2020gmail.com
 
 
 ### link to live site on GitHub Pages
-
+ink to go on Github https://github.com/mukantwarivirginie/pigDicePro
 
 ### copyright and license information
  MIT Copyright 2019
